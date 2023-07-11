@@ -2,4 +2,10 @@ html {
     font-size: 20px;
     font-family: 'Noto Sans JP', 'Noto Serif JP', 'Noto Emoji';
     line-height: 40px;
+    background-color: black;
+    color: white;
+}
+
+a{
+    color:lime
 }
